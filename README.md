@@ -12,8 +12,14 @@ My first Python practice repo as I start my AI Engineer journey.
 - string splitting
 - counting words and characters
 - basic Git and GitHub workflow
+- conditional with if / elif / else
+- comparison operators
+- checking string length
+- using functions with logic
+- simple chatbot-style input handling
 
 ## Files
+### Week 1
 - hello.py
 - age_next_year.py
 - favorite_food.py
@@ -27,6 +33,17 @@ My first Python practice repo as I start my AI Engineer journey.
 - word_counter.py
 - character_counter.py
 - daily_summary.py
+
+### Week 2
+- weather_advice.py
+- age_check.py
+- grade_checker.py
+- password_length.py
+- is_even.py
+- greet_by_time.py
+- simple_chatbot.py
+- expense_checker.py
+- study_tracker.py
 
 ## Notes
 This repo documents my first week learning Python while preparing for an AI Engineer career pivot.
