@@ -45,5 +45,14 @@ My first Python practice repo as I start my AI Engineer journey.
 - expense_checker.py
 - study_tracker.py
 
+### Week 3 
+This week I learned how to use dictionaries, lists of dictionaries, string cleanup, and functions. The hardest part was understanding lists of dictionaries and knowing what exactly I was looping through. I'm starting to slowly grasp what each function does and the logic behind these functions.
+- dictionaries.py
+- lists of dictionaries.py
+- string cleanup.py
+- functions.py
+- fake API-style data.py
+- a mini support dashboard project.py
+
 ## Notes
 This repo documents my first week learning Python while preparing for an AI Engineer career pivot.
