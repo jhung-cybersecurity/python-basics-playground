@@ -1,0 +1,3 @@
+Python is getting easier.
+Lists of dictionaries are still hard.
+Functions are starting to make sense.

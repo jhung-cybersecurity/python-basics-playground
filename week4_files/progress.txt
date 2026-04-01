@@ -1,0 +1,3 @@
+Week 4 Progress
+I learned how to read from files.
+Now I am learning how to write to files.
