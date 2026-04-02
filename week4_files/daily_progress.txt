@@ -1,0 +1,1 @@
+I leanred how to use append to add lines into txt fileIt does so without replacing lines in the file

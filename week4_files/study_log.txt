@@ -1,0 +1,3 @@
+I practiced appending text in Python.
+I now understand the difference between write and append.
+Append adds new text without deleting old text.
