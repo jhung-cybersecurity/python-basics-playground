@@ -1,0 +1,5 @@
+   python basics
+git and github
+   functions
+LISTS AND LOOPS
+file handling
