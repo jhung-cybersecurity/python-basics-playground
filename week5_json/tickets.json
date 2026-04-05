@@ -1,0 +1,7 @@
+[
+  {"id": 101, "customer": "Johnny", "status": "open", "priority": "high"},
+  {"id": 102, "customer": "Mina", "status": "closed", "priority": "low"},
+  {"id": 103, "customer": "Eric", "status": "open", "priority": "medium"},
+  {"id": 104, "customer": "Sara", "status": "open", "priority": "high"}
+]
+
