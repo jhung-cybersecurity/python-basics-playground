@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Johnny",
+    "department": "Support",
+    "stats": {
+      "tickets_closed": 12,
+      "rating": 4.9
+    }
+  },
+  {
+    "name": "Mina",
+    "department": "Sales",
+    "stats": {
+      "tickets_closed": 7,
+      "rating": 4.7
+    }
+  },
+  {
+    "name": "Eric",
+    "department": "Support",
+    "stats": {
+      "tickets_closed": 15,
+      "rating": 4.8
+    }
+  }
+]
