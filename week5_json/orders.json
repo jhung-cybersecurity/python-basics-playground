@@ -1,0 +1,7 @@
+[
+  {"order_id": 201, "customer": "Johnny", "amount": 45, "shipped": true},
+  {"order_id": 202, "customer": "Mina", "amount": 80, "shipped": false},
+  {"order_id": 203, "customer": "Eric", "amount": 25, "shipped": true},
+  {"order_id": 204, "customer": "Sara", "amount": 100, "shipped": false}
+]
+
