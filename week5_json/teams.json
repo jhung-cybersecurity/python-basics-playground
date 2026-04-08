@@ -1,0 +1,18 @@
+[
+  {
+    "team_name": "Support",
+    "members": ["Johnny", "Eric", "Sara"],
+    "active": true
+  },
+  {
+    "team_name": "Sales",
+    "members": ["Mina", "David"],
+    "active": false
+  },
+  {
+    "team_name": "Operations",
+    "members": ["Leo", "Anna", "Chris", "Nina"],
+    "active": true
+  }
+]
+
