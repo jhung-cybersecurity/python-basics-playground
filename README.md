@@ -54,5 +54,11 @@ This week I learned how to use dictionaries, lists of dictionaries, string clean
 - fake API-style data.py
 - a mini support dashboard project.py
 
+### Week 4
+This week I learned how to read, write, and append text files in Python. I learned the difference between read() and readlines(), and how write mode and append mode behave differently. I also learned how to organize code using modules and import functions from another file. One of the biggest lessons this week was understanding file paths and why Python sometimes could not find my files even when the code looked correct.
+
+## Week 5
+This week I learned how to work with JSON files in Python. I practiced using `json.load()` to read structured data, looping through lists of dictionaries, working with nested dictionaries and lists, counting values with `+=`, and filtering data with `if` statements. I also completed a mini project that summarized support ticket data from a JSON file. Week 5 felt pretty easy overall, and JSON makes more sense to me now. Going forward, I want more challenge mode with less guided help so I can think through the logic more on my own.
+
 ## Notes
 This repo documents my first week learning Python while preparing for an AI Engineer career pivot.
