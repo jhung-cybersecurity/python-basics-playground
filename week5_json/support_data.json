@@ -1,0 +1,7 @@
+[
+  {"id": 301, "customer": "Johnny", "issue": "Login Problem", "status": "open", "priority": "high"},
+  {"id": 302, "customer": "Mina", "issue": "Billing Question", "status": "closed", "priority": "low"},
+  {"id": 303, "customer": "Eric", "issue": "Password Reset", "status": "open", "priority": "medium"},
+  {"id": 304, "customer": "Sara", "issue": "Account Locked", "status": "open", "priority": "high"}
+]
+
