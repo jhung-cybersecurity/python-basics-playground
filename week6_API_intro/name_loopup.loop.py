@@ -10,8 +10,8 @@ while True:
         break
     else:
         try:
-            file = requests.get(f"https://api.agify.io/?name={name}")
-            data = file.json()
+            response = requests.get(f"https://api.agify.io/?name={name}")
+            data = response.json()
             if data["age"] is None:
                 print("There's no age associated with this name. Try again.")
             else:
