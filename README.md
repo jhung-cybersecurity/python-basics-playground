@@ -57,8 +57,61 @@ This week I learned how to use dictionaries, lists of dictionaries, string clean
 ### Week 4
 This week I learned how to read, write, and append text files in Python. I learned the difference between read() and readlines(), and how write mode and append mode behave differently. I also learned how to organize code using modules and import functions from another file. One of the biggest lessons this week was understanding file paths and why Python sometimes could not find my files even when the code looked correct.
 
-## Week 5
+### Week 5
 This week I learned how to work with JSON files in Python. I practiced using `json.load()` to read structured data, looping through lists of dictionaries, working with nested dictionaries and lists, counting values with `+=`, and filtering data with `if` statements. I also completed a mini project that summarized support ticket data from a JSON file. Week 5 felt pretty easy overall, and JSON makes more sense to me now. Going forward, I want more challenge mode with less guided help so I can think through the logic more on my own.
+
+# Week 6 Calling API's
+## What I Learned
+This week I learned to request API's and convert them into readable JSON data. Then transfer the JSON into useful formats. 
+## Scripts
+first_api_call.py - Makes a GET request to agify API and prints predicted age
+multi_field_extraction.py - Extracts multiple fields from API response with try/except and None checking
+name_analyzer.py - Calls two APIs and handles each independently with separate validation
+name_lookup_loop.py - Loops API lookups using while True until user quits
+name_profile.py - Fit everything in together, with all gates, inputs, add formatting, individual API  checks
+nationality_lookup.py - Checks if country list is empty before accessing results
+status_checker.py - Checks response status code before parsing JSON
+## Key Concepts
+- Request data from API's
+- Input validation before API calls
+- Pull specific values out from the API and return it to the user as requested.
+- try/except for error handling
+- Status code checking (response.status_code)
+- while True loop with break
+## Tools
+- `requests` library
+- agify.io API
+- nationalize.io API
+
+# Week 7 API Keys
+## What I Learned
+This week I learned how to build a structured AI-powered support tool that analyzes customer messages, extracts data, and formats it. 
+## Scripts
+env_practice.py - Practice reading environment variables with os.environ.get()
+first_claude_call.py - First API call to Claude using the Anthropic SDK
+chatbot_memory.py - Added memory function to the chatbot
+chatbot_persona.py - Able to define a persona for the chatbot in the chat
+chatbot_select_persona.py - Lets the user select the persona first before the prompt input
+chatbot_v2.py - Add temperature option for users and change persona selection into a dictionary
+ticket_analyzer.py - Takes an user input and clean up the output as JSON. 
+support_dashboard.py - Combining everything I learned this week and lets users input what they have issues with and output it with a clean parsed format. 
+## Key Concepts
+- API keys
+- Environment variables
+- System prompts
+- Conversation memory
+- Structured JSON output
+- Temperature control
+## Tools
+- `anthropic` SDK
+- `json` module
+- `os` module for environment variables
+- Claude Sonnet 4.5 model
+## Key Patterns
+- while True + break for input validation loops
+- Dictionary-based configuration instead of if/elif chains
+- System prompt controls Claude's behavior and output format
+- history list manages conversation memory
 
 ## Notes
 This repo documents my first week learning Python while preparing for an AI Engineer career pivot.
